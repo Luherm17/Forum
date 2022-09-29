@@ -1,4 +1,4 @@
 # CSE330
-James Pieper 486594 jamespieper Luke Hermann 485879 Luherm17
+James Pieper 486594 jamespieper
 
-REPLACE-THIS-TEXT-WITH-YOUR-PARTNERS-NAME-STUDENT-ID-AND-GITHUB-USERNAME
+Luke Hermann 485879 Luherm17
