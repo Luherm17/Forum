@@ -11,3 +11,8 @@ We included a like system for the stories and comments. Registered users can 'li
 TA can create their own account but here is a sample working login:
 user: SampleUser
 pass: SamplePass
+
+## Graded
+Great work!
+
+75/75
